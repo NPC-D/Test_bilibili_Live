@@ -1,0 +1,20 @@
+{   
+    "Banned": [], 
+    "roomid": "23391175",
+    "roomid_lol": "7734200",
+    "migu_song_search":"http://iecoxe.top:5000/v1/migu/search?key=",
+    
+    "id_NetEase_download":  {
+                                "id_download":"http://music.163.com/song/media/outer/url?id="
+                            },        
+    "bilibili_api": {
+                        "accept_message": "http://api.live.bilibili.com/ajax/msg?roomid=", 
+                        "send_api": "https://api.live.bilibili.com/msg/send", 
+                        "random_song": "https://api.uomg.com/api/rand.music?format=json"
+                    }
+
+                    
+                
+
+                    
+}
